@@ -20,4 +20,4 @@ In this project, we had to create a honeypot server, is a computer system that i
  - No 
  
 ## Data
- - <a href=""> LOGS </a>
+ - <a href="https://github.com/yuxuancs/CW9/blob/master/session.json"> LOGS </a>
