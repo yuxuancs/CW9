@@ -14,7 +14,7 @@ In this project, we had to create a honeypot server, is a computer system that i
   - Deployed Honeypots
   - data collected
   - [x] GIF Walkthrough: 
-  - (<img src='GCP_1.gif' width='' alt='' />)
+  - <img src='GCP_1.gif' width='' alt='' />
 
 ## Any unresolved questions raised by the data collected
  - No 
