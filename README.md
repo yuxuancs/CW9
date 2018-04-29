@@ -10,7 +10,7 @@ In this project, we had to create a honeypot server, is a computer system that i
 - There are lots of issues when I followed the instruction on the codepath, such as permmision deny and Could not fetch resource. I spent about 8 hours to set up because of the codepath issue. After I email the TA and they fix the bug. 
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
-![Honeypots deployed and data collected](<img src='GCP_1' width='' alt='' />)
+![Honeypots deployed and data collected](<img src='GCP_1.gif' width='' alt='' />)
 
 ## Any unresolved questions raised by the data collected
  - No 
